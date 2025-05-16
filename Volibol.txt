@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Все про волейбол</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #008cba;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #008cba;
+    }
+    img {
+      width: 100%;
+      max-width: 500px;
+      display: block;
+      margin: 10px auto;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Все про волейбол</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Що таке волейбол?</h2>
+      <p>Волейбол — це командний вид спорту, в якому дві команди змагаються між собою, перекидаючи м’яч через сітку.</p>
+    </section>
+
+    <section>
+      <h2>Основні правила</h2>
+      <ul>
+        <li>У грі беруть участь по 6 гравців з кожної сторони.</li>
+        <li>М’яч потрібно перекинути через сітку, не допустивши, щоб він упав на свій майданчик.</li>
+        <li>Команда має право зробити не більше 3 торкань м’яча перед перекиданням.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Ігрове поле</h2>
+      <p>Поле має розміри 18×9 метрів, розділене сіткою. Усі гравці мають чітко визначені позиції.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Volleyball_court_layout.svg" alt="Поле волейболу">
+    </section>
+
+    <section>
+      <h2>Цікаві факти</h2>
+      <ul>
+        <li>Волейбол було створено у 1895 році в США.</li>
+        <li>Олімпійським видом спорту став у 1964 році.</li>
+        <li>Існує також пляжний волейбол, у якому грають по 2 гравці.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Вебсайт про волейбол
+  </footer>
+
+</body>
+</html>
